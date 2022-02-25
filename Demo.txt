@@ -1,6 +1,9 @@
 hi
 this is sharif
 from katihar
+welcome to git training
+c# training
+feb to april
 welcome to .net training
 at capgemini
 mumbai
