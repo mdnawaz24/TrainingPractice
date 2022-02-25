@@ -5,3 +5,6 @@ from katihar
 JNV Kishanganj
 JNV Hyderabad
 NIT Patna
+good morning 
+good night
+
